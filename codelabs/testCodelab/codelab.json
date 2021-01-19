@@ -1,0 +1,23 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-3921398-10",
+  "updated": "2021-01-19T15:57:27+05:30",
+  "id": "testCodelab",
+  "duration": 19,
+  "title": "Test Codelab",
+  "summary": "Just testing this setup",
+  "source": "testCodelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": null,
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://solace.community/",
+  "ga": "UA-3921398-10",
+  "url": "testCodelab"
+}

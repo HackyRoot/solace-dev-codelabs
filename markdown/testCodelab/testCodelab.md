@@ -1,6 +1,6 @@
 author: Pratik Parmar
-summary:
-id: azure2Solace
+summary: Just testing this setup
+id: testCodelab
 tags:
 categories:
 environments: Web
@@ -8,9 +8,11 @@ status: Published
 feedback link: https://solace.community/
 analytics account: UA-3921398-10
 
-# Title of codelab goes here
+# Test Codelab
 
-## What you'll learn: Overview
+After keeping you waited for so long, we have finally decided to launch it.
+
+## What you'll learn: Overview Phase 2
 
 Duration: 0:05:00
 
@@ -40,7 +42,7 @@ Plain Text followed by bullets
 
 ![Soly Image Caption](img/soly.gif)
 
-## What you need: Prerequisites
+## What you need: Prerequisites 2
 
 Duration: 0:07:00
 

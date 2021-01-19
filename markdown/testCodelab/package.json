@@ -4,11 +4,11 @@
   "description": "use nodemon to watch changes on md file, rebuild codelab on saves",
   "main": "index.js",
   "scripts": {
-    "watch": "nodemon --watch azure2Solace.md --exec \"claat export -o temp/ azure2Solace.md && ./node_modules/kill-port/cli.js --port 9090 && cd temp/azure2Solace && claat serve\""
+    "watch": "nodemon --watch testCodelab.md --exec \"claat export -o temp/ testCodelab.md && ./node_modules/kill-port/cli.js --port 9090 && cd temp/testCodelab && claat serve\""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SolaceDev/solace-dev-codelabs/tree/master/markdown/azure2Solace"
+    "url": "https://github.com/SolaceDev/solace-dev-codelabs/tree/master/markdown/testCodelab"
   },
   "keywords": [
     "codelab"
